@@ -3,7 +3,7 @@ AIM:
 
 To study dictionaries in Python and perform operations such as accessing, updating, adding, removing key–value pairs, searching, validating login, and finding highest values.
 
-THEORY (1–2 lines for each concept used)
+THEORY 
 
 Dictionary: A dictionary stores data in key–value pairs using {}, where each key is unique.
 
@@ -88,6 +88,6 @@ Print the topper’s name and the corresponding marks using marks[topper].
 
 Stop.
 
-CONCLUSION (3–4 lines):
+CONCLUSION 
 
 In this experiment, we learned how dictionaries store values in key–value form and how they can be accessed, updated, modified, and searched. Concepts like retrieving values safely using get(), validating login credentials, and finding the highest marks were successfully implemented. Dictionaries provide fast, flexible, and powerful data handling in Python.
